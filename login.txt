@@ -1,2 +1,2 @@
-updated login logo
+updated login page logo
 #login page
